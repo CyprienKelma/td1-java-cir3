@@ -37,7 +37,7 @@ public class TD1 {
                 Exo2 exo2 = new Exo2();
                 break;
             case 3:
-                // TODO Exo3 exo3 = new Exo3();
+                Exo3 exo3 = new Exo3();
                 break;
             case 4:
                 // TODO Exo4 exo4 = new exo4;
