@@ -40,7 +40,7 @@ public class TD1 {
                 Exo3 exo3 = new Exo3();
                 break;
             case 4:
-                // TODO Exo4 exo4 = new exo4;
+                Exo4 exo4 = new Exo4();
                 break;
             default:
                 print("Erreur : Entrez un numéro valide ! ");
